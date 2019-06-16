@@ -2,3 +2,5 @@ patata
 zanahoria
 lechuga
 huevo
+pan
+azucar
